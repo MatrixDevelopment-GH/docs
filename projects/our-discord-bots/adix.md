@@ -6,7 +6,7 @@ coverY: 841.5859030837005
 # Adix
 
 {% hint style="warning" %}
-This page is still being developed.
+**This page is still being developed.**
 {% endhint %}
 
 Adix, our first high quality music bot meant to benefit the various communities on Discord by streaming music in a voice channel to entertain users. It comes with a wide variety of features most basic music bots don't have. You can use the help command (`a?help`) to view the server prefix, the bot's privacy policy, a list of all of the operational commands, and the support server. You can check out each feature from there with more detailed information. The following is a list of all Adix's categories and commands:\

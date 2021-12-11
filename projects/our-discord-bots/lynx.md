@@ -6,7 +6,7 @@ coverY: 78.94273127753304
 # Lynx
 
 {% hint style="warning" %}
-This page is still being developed.
+**This page is still being developed.**
 {% endhint %}
 
 Meet Lynx, the future of the next generation of powerful and easily customizable Discord bots powering communities and bringing users together. Enforce your server rules and keep your community a safe and fun place with Lynx's flexible moderation systems, while adding some shiny new perks to your server with it's useful utility features.
