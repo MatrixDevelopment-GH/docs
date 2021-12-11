@@ -1,5 +1,6 @@
 ---
 description: Welcome to the docs for Michibot!
+coverY: -105.8158085569253
 ---
 
 # Michibot
