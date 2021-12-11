@@ -1,5 +1,6 @@
 ---
 description: Welcome to the docs for Lynx!
+coverY: 78.94273127753304
 ---
 
 # Lynx
