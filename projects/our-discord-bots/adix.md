@@ -1,6 +1,5 @@
 ---
 description: Welcome to the docs for Adix!
-coverY: 841.5859030837005
 ---
 
 # Adix

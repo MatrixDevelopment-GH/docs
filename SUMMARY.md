@@ -14,5 +14,3 @@
 * [Our Discord Bots](projects/our-discord-bots/README.md)
   * [Adix](projects/our-discord-bots/adix.md)
   * [Lynx](projects/our-discord-bots/lynx.md)
-  * [Michibot](projects/our-discord-bots/michibot.md)
-  * [Atriox](projects/our-discord-bots/atriox.md)

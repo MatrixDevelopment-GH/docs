@@ -1,6 +1,6 @@
 ---
 description: Welcome to the Matrix Development Documentation Site
-cover: .gitbook/assets/AdobeStock_310262727.jpeg
+cover: .gitbook/assets/ezgif-2-757624c6f6.gif
 coverY: 0
 ---
 

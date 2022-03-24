@@ -1,6 +1,6 @@
 ---
 description: What is Matrix Development? Who are we?
-cover: ../.gitbook/assets/AdobeStock_348397404.jpeg
+cover: ../.gitbook/assets/1_1.png
 coverY: 0
 ---
 
