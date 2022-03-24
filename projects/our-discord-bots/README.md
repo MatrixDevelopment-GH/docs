@@ -1,7 +1,5 @@
 ---
 description: All of our Discord-related bots!
-cover: ../../.gitbook/assets/AdobeStock_297797423.jpeg
-coverY: 0
 ---
 
 # Our Discord Bots
