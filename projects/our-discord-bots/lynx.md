@@ -37,5 +37,5 @@ To get started with Lynx, type "`l?help`" to view a list of categories in which 
 » userinfo \[user]: Displays information on a user
 
 {% hint style="success" %}
-[Invite Lynx](https://discord.com/oauth2/authorize?client\_id=771621658741178368\&permissions=8\&scope=bot) today and moderate users in your server wit a state of the art moderation bot!
+[Invite Lynx](https://discord.com/oauth2/authorize?client\_id=771621658741178368\&permissions=8\&scope=bot) today and moderate users in your server with a state of the art moderation bot!
 {% endhint %}
