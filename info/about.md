@@ -14,6 +14,10 @@ This page should hopefully answer any questions you may have about who we are an
 
 Matrix Development is a development group. We're a group that **develops** things. These things can range from Discord bots to video games on different platforms. We're a development group striving to become one of the best development groups to ever exist. We are currently developing products on several platforms. Our only motive is reputation. That's practically the only thing we strive for. We were founded by a group of individuals influenced by their love for programming. We chose the name Matrix Development, because it's a combination of Cryptography and Software development which is what we do and what we aim to become better at to benefit others across the globe.
 
+### What We Do
+
+We're currently only limited to the development of a couple Discord bots and a utility API for other Discord-based-developers to use. We plan on doing something with RPCs after our API is setup. We may expand to a completely different platform or develop something else developers can use in their programming journey.
+
 {% hint style="warning" %}
 The rest of this page is still being developed.
 {% endhint %}
