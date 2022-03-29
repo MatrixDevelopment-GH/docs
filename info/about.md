@@ -16,7 +16,7 @@ Matrix Development is a development group. We're a group that **develops** thing
 
 ### What We Do
 
-We're currently only limited to the development of a couple Discord bots and a utility API for other Discord-based-developers to use. We plan on doing something with RPCs after our API is setup. We may expand to a completely different platform or develop something else developers can use in their programming journey.
+As a development group, we're only developing a couple Discord bots and a utility API for other Discord-based-developers to use. We plan on doing something with RPCs after our API is setup. We may expand to a completely different platform or develop something else developers can use in their programming journey. However, we're not only a development group. We're also a community and as a community, we do events, we do giveaways, and we have a bunch of perks and rewards for those that participate and are active members within our discord community. We also have a bunch of features for people within our community to use.
 
 {% hint style="warning" %}
 The rest of this page is still being developed.
