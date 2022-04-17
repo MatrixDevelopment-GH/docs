@@ -45,5 +45,5 @@ Utility & Music Commands \
 » volume - Set the player volume from 1 to 200
 
 {% hint style="success" %}
-[Invite Adix](https://discord.com/api/oauth2/authorize?client\_id=853464071940603954\&permissions=0\&scope=bot) today and spice up your server with a one-of-a-kind music bot!
+[Invite Adix](https://matrixdev.xyz/invite/adix) today and spice up your server with a one-of-a-kind music bot!
 {% endhint %}
