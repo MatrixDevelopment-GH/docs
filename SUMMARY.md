@@ -6,7 +6,7 @@
 
 * [About Us](info/about.md)
 * [Main Website](https://matrixdev.xyz)
-* [Status Page](https://status.matrixdev.xzy)
+* [Status Page](https://status.matrixdev.xyz)
 * [Documentation Site](https://docs.matrixdev.xyz)
 
 ## Projects
