@@ -4,8 +4,8 @@ description: Welcome to the docs for Adix!
 
 # Adix
 
-{% hint style="warning" %}
-**This page is still being developed.**
+{% hint style="danger" %}
+**This page is being completely revamped due to the majority of it being outdated.**
 {% endhint %}
 
 Adix, our first high quality music bot meant to benefit the various communities on Discord by streaming music in a voice channel to entertain users. It comes with a wide variety of features most basic music bots don't have. You can use the help command (`a?help`) to view the server prefix, the bot's privacy policy, a list of all of the operational commands, and the support server. You can check out each feature from there with more detailed information. The following is a list of all Adix's categories and commands:\
@@ -13,7 +13,7 @@ Adix, our first high quality music bot meant to benefit the various communities 
 Command Structure\
 `<prefix><command> <required arguments> [optional arguments]`
 
-Utility & Music Commands \
+Utility & Music Commands\
 » help - Lists the bot's commands along with a link to the support server, the bot's privacy policy and the server prefix (use `[command name]` `-help`)\
 » about - Check out privacy policy of the bot\
 » autoplay - Autoplay is playing of songs automatically after one another, this command toggles it\
@@ -39,7 +39,7 @@ Utility & Music Commands \
 » shuffle - Shuffle the queue by swapping the position of multiple songs in the queue (WHICH CANT BE REVERSED)\
 » skip - skip the current song\
 » skipto - Skip to a selected song in the queue\
-» stop - Stop the player \
+» stop - Stop the player\
 » support - Link for the home of the bot\
 » uptime - Check the stats of the bot\
 » volume - Set the player volume from 1 to 200
