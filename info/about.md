@@ -6,9 +6,15 @@ coverY: 0
 
 # About Us
 
+{% hint style="danger" %}
+This documentation site is currently out-of-date and is being completely revamped with new information and more. This process will likely take 1-3 business days to complete. Please be patient.
+{% endhint %}
+
 {% hint style="info" %}
 This page should hopefully answer any questions you may have about who we are and what we do. If you require more assistance then open a support ticket in our Discord server and a support agent can assist you there.
 {% endhint %}
+
+
 
 ### Who We Are
 
