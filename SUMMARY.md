@@ -12,6 +12,7 @@
 ## Projects
 
 * [Our Discord Bots](projects/our-discord-bots/README.md)
-  * [Adix](projects/our-discord-bots/adix/README.md)
+  * [Adix](projects/our-discord-bots/adix.md)
+    * [Terms of Service](projects/our-discord-bots/adix/terms-of-service.md)
     * [Privacy Policy](projects/our-discord-bots/adix/privacy-policy.md)
   * [Lynx](projects/our-discord-bots/lynx.md)
