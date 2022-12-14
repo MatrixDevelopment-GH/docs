@@ -21,6 +21,7 @@ By agreeing to the terms of service you hear by agree to:
 * To allow Matrix to use your Server/Guild ID to save and update your current music queue (once the queue ends, the data is automatically deleted).
 * Agree to allow matrix to log your server as a new join (keeps track when Adix leaves and joins a new server).
 
-{% hint style="danger" %}
-Under development.
+{% hint style="info" %}
+If you'd like to contact us regarding our terms or if you have any queries, feel free to join our [support server](https://matrixdev.xyz/discord) at Matrix Development.\
+
 {% endhint %}
