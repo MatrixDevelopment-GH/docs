@@ -1,5 +1,7 @@
 ---
-description: The correct and proper use of Adix is specifically explained and listed below.
+description: >-
+  The correct and proper use of Adix is specifically explained and listed below.
+  Please thoroughly read through the information provided below.
 ---
 
 # Terms of Service
