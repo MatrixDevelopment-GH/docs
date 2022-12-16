@@ -9,7 +9,7 @@ description: >-
 
 ### What data do we collect?
 
-Adix does not collect any personal data, except server IDs and completed songs (songs that have finished playing - these are removed after the bot disconnects from a voice channel).Why do we c
+Adix does not collect any personal data, except server IDs and completed songs (songs that have finished playing - these are removed after the bot disconnects from a voice channel).
 
 ### Why do we collect this data?
 
